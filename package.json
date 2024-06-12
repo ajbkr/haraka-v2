@@ -1,0 +1,17 @@
+{
+  "name": "haraka-v2",
+  "version": "0.0.1",
+  "description": "JavaScript (Node.js) implementation of the Haraka v2 cryptographic hash function",
+  "main": "main.js",
+  "scripts": {
+    "lint": "standard main.js",
+    "start": "node main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Andrew J. Baker <andrew_j_baker2@hotmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "standard": "^17.1.0"
+  }
+}
